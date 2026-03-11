@@ -74,5 +74,12 @@
 "genre":"Family / Fantasy",
 "year":2000,
 "image":"images/titanic.jpg"
+},
+
+{
+"title":"Frozen",
+"genre":"Animation",
+"year":2013,
+"image":"images/frozen.jpg"
 }
 ]
