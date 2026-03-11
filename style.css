@@ -4,21 +4,63 @@ color:white;
 font-family:Arial;
 }
 
+/* Movie card */
+
 .movie-card{
 background:#1c1c1c;
 border:none;
+margin-bottom:25px;
+overflow:hidden;
 transition:0.3s;
-margin-bottom:20px;
 }
 
 .movie-card:hover{
 transform:scale(1.05);
+box-shadow:0 10px 25px rgba(0,0,0,0.7);
 }
 
-.card img{
-height:300px;
+/* Poster container */
+
+.poster-container{
+width:100%;
+height:380px;
+overflow:hidden;
+}
+
+/* Poster image */
+
+.poster{
+width:100%;
+height:100%;
 object-fit:cover;
 }
+
+/* Movie text */
+
+.card-body h5{
+font-size:18px;
+font-weight:bold;
+}
+
+.card-body{
+padding:15px;
+text-align:center;
+}
+
+.card-body h5{
+font-size:18px;
+font-weight:bold;
+color:white;
+margin-top:10px;
+}
+
+.card-body p{
+font-size:14px;
+color:#cfcfcf;
+margin-bottom:10px;
+}
+
+/* Rating */
 
 .rating span{
 font-size:22px;
@@ -28,4 +70,61 @@ color:gray;
 
 .rating span:hover{
 color:gold;
+}
+
+/* Search bar */
+
+.search-bar{
+border-radius:25px;
+padding:12px;
+}
+.card-body h5{
+font-size:18px;
+font-weight:bold;
+color:white;
+margin-top:10px;
+}
+
+.card-body p{
+font-size:14px;
+color:#cfcfcf;
+}
+/* Netflix Hover Effect */
+
+.movie-card{
+background:#1c1c1c;
+border:none;
+margin-bottom:25px;
+overflow:hidden;
+transition:0.4s;
+position:relative;
+}
+
+.movie-card:hover{
+transform:scale(1.08);
+z-index:10;
+box-shadow:0 15px 30px rgba(0,0,0,0.8);
+}
+
+/* Poster zoom */
+
+.poster{
+width:100%;
+height:100%;
+object-fit:cover;
+transition:0.4s;
+}
+
+.movie-card:hover .poster{
+transform:scale(1.1);
+}
+
+/* Movie info fade */
+
+.card-body{
+transition:0.3s;
+}
+
+.movie-card:hover .card-body{
+background:#000;
 }
