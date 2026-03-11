@@ -1,0 +1,31 @@
+body{
+background:#111;
+color:white;
+font-family:Arial;
+}
+
+.movie-card{
+background:#1c1c1c;
+border:none;
+transition:0.3s;
+margin-bottom:20px;
+}
+
+.movie-card:hover{
+transform:scale(1.05);
+}
+
+.card img{
+height:300px;
+object-fit:cover;
+}
+
+.rating span{
+font-size:22px;
+cursor:pointer;
+color:gray;
+}
+
+.rating span:hover{
+color:gold;
+}

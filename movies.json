@@ -1,0 +1,78 @@
+[
+{
+"title":"Chennai Express",
+"genre":"Comedy / Action",
+"year":2013,
+"image":"images/chennaiexpress.jpg"
+},
+
+{
+"title":"Dilwale",
+"genre":"Romance / Action",
+"year":2015,
+"image":"images/dilwale.jpg"
+},
+
+{
+"title":"Bahubali",
+"genre":"Action / Historical",
+"year":2015,
+"image":"images/bahubali.png"
+},
+
+{
+"title":"Genius",
+"genre":"Action / Thriller",
+"year":2018,
+"image":"images/genius.jpg"
+},
+
+{
+"title":"Toonpur Ka Superrhero",
+"genre":"Animation / Adventure",
+"year":2010,
+"image":"images/toonpur.jpg"
+},
+
+{
+"title":"Bhoot and Friends",
+"genre":"Comedy / Fantasy",
+"year":2010,
+"image":"images/bhootfriends.jpg"
+},
+
+{
+"title":"Paheli",
+"genre":"Fantasy / Romance",
+"year":2005,
+"image":"images/paheli.jpg"
+},
+
+{
+"title":"Entertainment",
+"genre":"Comedy",
+"year":2014,
+"image":"images/entertainment.jpg"
+},
+
+{
+"title":"Singham",
+"genre":"Action",
+"year":2011,
+"image":"images/singham.jpg"
+},
+
+{
+"title":"Raju Chacha",
+"genre":"Family / Fantasy",
+"year":2000,
+"image":"images/raju.jpg"
+},
+
+{
+"title":"Titanic",
+"genre":"Family / Fantasy",
+"year":2000,
+"image":"images/titanic.jpg"
+}
+]
