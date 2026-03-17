@@ -13,25 +13,32 @@
 
 <div class="container">
 
-<h1 class="text-center mt-4">Cartoon Movies</h1>
+<h1 class="text-center mt-4 cartoon-glow">Cartoon Movies</h1>
 <style>
 .back-btn{
 position: fixed;
 top: 20px;
 left: 20px;
-background: #ff4d4d;
-color: white;
+background: #ffffff;
+color: rgb(0, 0, 0);
 padding: 10px 15px;
 border-radius: 8px;
 text-decoration: none;
 font-weight: bold;
 }
 .back-btn:hover{
-background: #e60000;
+background: #2db6b6;
 }
 </style>
 
 <a href="index.html" class="back-btn">⬅ Home</a>
+
+<input 
+type="text" 
+id="search" 
+class="form-control my-3" 
+placeholder="Search movie..."
+>
 
 <div class="row" id="movieList"></div>
 
