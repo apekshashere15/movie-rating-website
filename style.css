@@ -11,7 +11,11 @@ background:#1c1c1c;
 border:none;
 margin-bottom:25px;
 overflow:hidden;
-transition:0.3s;
+transition:0.4s;
+position:relative;
+height: 500px;
+display: flex;
+flex-direction: column;
 }
 
 .movie-card:hover{
@@ -45,6 +49,11 @@ font-weight:bold;
 .card-body{
 padding:15px;
 text-align:center;
+flex: 1;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+transition:0.3s;
 }
 
 .card-body h5{
@@ -52,6 +61,12 @@ font-size:18px;
 font-weight:bold;
 color:white;
 margin-top:10px;
+display: -webkit-box;
+-webkit-line-clamp: 2;
+-webkit-box-orient: vertical;
+overflow: hidden;
+text-overflow: ellipsis;
+min-height: 2.5em;
 }
 
 .card-body p{
@@ -78,17 +93,6 @@ color:gold;
 border-radius:25px;
 padding:12px;
 }
-.card-body h5{
-font-size:18px;
-font-weight:bold;
-color:white;
-margin-top:10px;
-}
-
-.card-body p{
-font-size:14px;
-color:#cfcfcf;
-}
 /* Netflix Hover Effect */
 
 .movie-card{
@@ -98,6 +102,9 @@ margin-bottom:25px;
 overflow:hidden;
 transition:0.4s;
 position:relative;
+height: 500px;
+display: flex;
+flex-direction: column;
 }
 
 .movie-card:hover{
@@ -121,10 +128,57 @@ transform:scale(1.1);
 
 /* Movie info fade */
 
-.card-body{
-transition:0.3s;
-}
-
 .movie-card:hover .card-body{
 background:#000;
+}
+
+.category-buttons{
+text-align: center;
+margin: 20px 0;
+}
+
+.category-btn{
+background: linear-gradient(135deg, #1f1f1f, #3a3a3a);
+color: #fff;
+border: none;
+padding: 10px 20px;
+margin: 5px;
+border-radius: 25px;
+font-weight: 500;
+transition: 0.3s;
+}
+
+.category-btn:hover{
+background: linear-gradient(135deg, #ff4d4d, #ff1a1a);
+transform: scale(1.05);
+}
+
+h1{
+color: #ffffff;
+font-weight: bold;
+letter-spacing: 1px;
+}
+
+p{
+color: #bbbbbb;
+}
+.main-title{
+color: #ffffff;
+font-size: 40px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+
+.subtitle{
+color: #bbbbbb;
+font-size: 16px;
+margin-bottom: 20px;
+}
+
+.main-title{
+color: #ffffff;
+font-size: 40px;
+font-weight: bold;
+letter-spacing: 2px;
+text-shadow: 0 0 10px rgba(255, 77, 77, 0.7);
 }

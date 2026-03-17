@@ -183,15 +183,6 @@
 },
 
 {
-"title":"Titanic",
-"genre":"Family / Fantasy",
-"year":2000,
-"category": "Hollywood",
-"image":"images/titanic.jpg"
-},
-
-
-{
 "title":"Parasite",
 "genre":"Thriller / Drama",
 "year":2019,
@@ -290,11 +281,102 @@
 },
 
 {
+"title":"Little Krishna",
+"genre":"Animation / Mythology",
+"year":2009,
+"category":"Cartoon",
+"country":"India",
+"image":"images/little_krishna.jpg"
+},
+
+{
 "title":"Frozen",
 "genre":"Animation",
 "year":2013,
 "category": "Cartoon",
 "image":"images/frozen.jpg"
+},
+
+{
+"title":"Chhota Bheem and the Curse of Damyaan",
+"genre":"Animation / Adventure",
+"year":2012,
+"category":"Cartoon",
+"country":"India",
+"image":"images/chhota_bheem.jpg"
+},
+
+{
+"title":"Arjun: The Warrior Prince",
+"genre":"Animation / Action",
+"year":2012,
+"category":"Cartoon",
+"country":"India",
+"image":"images/arjun_warrior_prince.jpg"
+},
+{
+"title":"Motu Patlu: King of Kings",
+"genre":"Animation / Comedy",
+"year":2016,
+"category":"Cartoon",
+"country":"India",
+"image":"images/motu_patlu.jpg"
+},
+{
+"title":"Roadside Romeo",
+"genre":"Animation / Comedy",
+"year":2008,
+"category":"Cartoon",
+"country":"India",
+"image":"images/roadside_romeo.jpg"
+},
+{
+"title":"Toy Story",
+"genre":"Animation / Adventure",
+"year":1995,
+"category":"Cartoon",
+"country":"USA",
+"image":"images/toy_story.jpg"
+},
+{
+"title":"Ghatothkach",
+"genre":"Animation / Mythology",
+"year":2008,
+"category":"Cartoon",
+"country":"India",
+"image":"images/ghatothkach.jpg"
+},
+{
+"title":"Kung Fu Panda",
+"genre":"Animation / Action",
+"year":2008,
+"category":"Cartoon",
+"country":"USA",
+"image":"images/kung_fu_panda.jpg"
+},
+{
+"title":"The Lion King",
+"genre":"Animation / Drama / Adventure",
+"year":1994,
+"category":"Cartoon",
+"country":"USA",
+"image":"images/the_lion king.jpg"
+},
+{
+"title":"Coco",
+"genre":"Animation / Family",
+"year":2017,
+"category":"Cartoon",
+"country":"USA",
+"image":"images/coco.jpg"
+},
+{
+"title":"Minions",
+"genre":"Animation / Comedy",
+"year":2015,
+"category":"Cartoon",
+"country":"USA",
+"image":"images/minions.jpg"
 }
 
 
