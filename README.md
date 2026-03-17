@@ -1,10 +1,10 @@
 **Final Project Completion Report**
 **Project Title:** MovieHub - Movie Rating Website
 
-**Name:** [Your Name]
-**College:** [Your College Name]
-**Course:** [Your Course]
-**Project Duration:** [Start Date] – March 17, 2026
+**Name:** Apeksha Manoj Shere
+**College:**Saraswati College Shegaon
+**Course:** BCA
+
 
 ---
 
