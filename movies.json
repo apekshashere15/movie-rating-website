@@ -80,6 +80,22 @@
 },
 
 {
+"title":"Wanted",
+"genre":"Action / Thriller",
+"year":2009,
+"category": "Bollywood",
+"image":"images/wanted.jpg"
+},
+
+{
+"title":"Bhool Bhulaiyaa",
+"genre":"Horror / Comedy",
+"year":2007,
+"category": "Bollywood",
+"image":"images/bhool_b.jpg"
+},
+
+{
 "title":"Titanic",
 "genre":"Family / Fantasy",
 "year":2000,
@@ -87,11 +103,199 @@
 "image":"images/titanic.jpg"
 },
 
+
+{
+"title":"Joker",
+"genre":"Drama",
+"year":2019,
+"category": "Hollywood",
+"image":"images/joker.jpg"
+},
+{
+"title":"Avengers: Endgame",
+"genre":"Action / Superhero",
+"year":2019,
+"category": "Hollywood",
+"image":"images/avengers.jpg"
+},
+{
+"title":"Inception",
+"genre":"Sci-Fi / Thriller",
+"year":2010,
+"category": "Hollywood",
+"image":"images/inception.jpg"
+},
+{
+"title":"Interstellar",
+"genre":"Sci-Fi",
+"year":2014,
+"category": "Hollywood",
+"image":"images/interstellar.jpg"
+},
+{
+"title":"The Dark Knight",
+"genre":"Action",
+"year":2008,
+"category": "Hollywood",
+"image":"images/the_dark_knight.jpg"
+},
+{
+"title":"Spider-Man: No Way Home",
+"genre":"Superhero",
+"year":2021,
+"category": "Hollywood",
+"image":"images/spiderman.jpg"
+},
+{
+"title":"Avatar",
+"genre":"Sci-Fi / Adventure",
+"year":2009,
+"category": "Hollywood",
+"image":"images/avatar.jpg"
+},
+{
+"title":"The Matrix",
+"genre":"Sci-Fi / Action",
+"year":1999,
+"category": "Hollywood",
+"image":"images/the_matrix.jpg"
+},
+{
+"title":"Jurassic World",
+"genre":"Adventure",
+"year":2015,
+"category": "Hollywood",
+"image":"images/jurassic_world.jpg"
+},
+{
+"title":"Top Gun: Maverick",
+"genre":"Action",
+"year":2022,
+"category": "Hollywood",
+"image":"images/topgun.jpg"
+},
+{
+"title":"Mission: Impossible – Fallout",
+"genre":"Action",
+"year":2018,
+"category": "Hollywood",
+"image":"images/mission_impossible.jpg"
+},
+
+{
+"title":"Titanic",
+"genre":"Family / Fantasy",
+"year":2000,
+"category": "Hollywood",
+"image":"images/titanic.jpg"
+},
+
+
+{
+"title":"Parasite",
+"genre":"Thriller / Drama",
+"year":2019,
+"category":"International",
+"country":"South Korea",
+"image":"images/parasite.jpg"
+},
+{
+"title":"Train to Busan",
+"genre":"Horror / Action",
+"year":2016,
+"category":"International",
+"country":"South Korea",
+"image":"images/train_to_busan.jpg"
+},
+{
+
+"title":"Spirited Away",
+"genre":"Animation / Fantasy",
+"year":2001,
+"category":"International",
+"country":"Japan",
+"image":"images/spirited_away.jpg"
+},
+{
+"title":"Baahubali: The Conclusion",
+"genre":"Action / Drama",
+"year":2017,
+"category":"International",
+"country":"India",
+"image":"images/baahubali_conclusion.jpg"
+},
+{
+"title":"RRR",
+"genre":"Action / Drama",
+"year":2022,
+"category":"International",
+"country":"India",
+"image":"images/rrr.jpg"
+},
+{
+"title":"3 Idiots",
+"genre":"Comedy / Drama",
+"year":2009,
+"category":"International",
+"country":"India",
+"image":"images/3_idiots.jpg"
+},
+{
+"title":"Dangal",
+"genre":"Drama / Biography",
+"year":2016,
+"category":"International",
+"country":"India",
+"image":"images/dangal.jpg"
+},
+{
+"title":"The Intouchables",
+"genre":"Comedy / Drama",
+"year":2011,
+"category":"International",
+"country":"France",
+"image":"images/the_intouchables.jpg"
+},
+{
+"title":"Your Name",
+"genre":"Animation / Romance",
+"year":2016,
+"category":"International",
+"country":"Japan",
+"image":"images/your_name.jpg"
+},
+{
+"title":"Oldboy",
+"genre":"Action / Thriller",
+"year":2003,
+"category":"International",
+"country":"South Korea",
+"image":"images/oldboy.jpg"
+},
+{
+"title":"Pan’s Labyrinth",
+"genre":"Fantasy / Drama",
+"year":2006,
+"category":"International",
+"country":"Spain",
+"image":"images/pan's_labyrinth.jpg"
+},
+{
+"title":"Life Is Beautiful",
+"genre":"Comedy / Drama",
+"year":1997,
+"category":"International",
+"country":"Italy",
+"image":"images/life_is_beautiful.jpg"
+},
+
 {
 "title":"Frozen",
 "genre":"Animation",
 "year":2013,
-"category": "Hollywood",
+"category": "Cartoon",
 "image":"images/frozen.jpg"
 }
+
+
 ]

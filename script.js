@@ -6,7 +6,29 @@ fetch("movies.json")
 .then(data => {
 
 moviesData = data;
-displayMovies(moviesData);
+
+let page = window.location.pathname;
+
+// Check which page is open
+if(page.includes("bollywood.html")){
+let filtered = data.filter(movie => movie.category === "Bollywood");
+displayMovies(filtered);
+}
+else if(page.includes("hollywood.html")){
+let filtered = data.filter(movie => movie.category === "Hollywood");
+displayMovies(filtered);
+}
+else if(page.includes("international.html")){
+let filtered = data.filter(movie => movie.category === "International");
+displayMovies(filtered);
+}
+else if(page.includes("cartoon.html")){
+let filtered = data.filter(movie => movie.category === "Cartoon");
+displayMovies(filtered);
+}
+else{
+displayMovies(data); // for index.html (all movies)
+}
 
 });
 
