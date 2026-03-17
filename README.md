@@ -55,4 +55,4 @@ The system provides a **professional UI/UX experience** while implementing essen
 **GitHub Repository**
 
 Project Source Code:
-https://github.com/[your-username]/movie-rating-website
+https://github.com/apekshashere15/movie-rating-website
